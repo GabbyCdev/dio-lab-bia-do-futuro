@@ -1,0 +1,34 @@
+{
+  "cliente": {
+    "nome": "João Silva",
+    "idade": 32,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5000.00
+  },
+  "perfil_financeiro": {
+    "perfil_risco": "moderado",
+    "aceita_risco": false,
+    "horizonte_investimento": "medio_longo_prazo"
+  },
+  "situacao_atual": {
+    "patrimonio_total": 15000.00,
+    "reserva_emergencia_atual": 10000.00,
+    "objetivo_principal": "Construir reserva de emergência"
+  },
+  "metas_financeiras": [
+    {
+      "nome_meta": "Completar reserva de emergência",
+      "valor_necessario": 15000.00,
+      "valor_atual": 10000.00,
+      "prazo": "2026-06",
+      "prioridade": "alta"
+    },
+    {
+      "nome_meta": "Entrada do apartamento",
+      "valor_necessario": 50000.00,
+      "valor_atual": 0.00,
+      "prazo": "2027-12",
+      "prioridade": "media"
+    }
+  ]
+}

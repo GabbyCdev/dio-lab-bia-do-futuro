@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário Empresa X,Renda,5000.00,entrada
+2025-10-02,Aluguel Apartamento,Moradia,1200.00,saida
+2025-10-03,Supermercado Extra,Alimentacao,450.00,saida
+2025-10-05,Netflix Assinatura,Lazer,55.90,saida
+2025-10-07,Compra Farmácia,Sáude,89.00,saida
+2025-10-10,Restaurante Centro,Alimentacao,120.00,saida
+2025-10-12,Uber Corrida,Transporte,45.00,saida
+2025-10-15,Conta de Luz,Moradia,180.00,saida
+2025-10-20,Mensalidade Academia,Sáude,99.00,saida
+2025-10-25,Posto de Combustível,Transporte,250.00,saida

@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "liquidez": "diaria",
+    "horizonte_recomendado": "curto_prazo",
+    "perfil_adequado": ["conservador", "moderado"],
+    "objetivo_indicado": ["reserva_emergencia", "liquidez"],
+    "descricao": "Título público com alta segurança e liquidez, ideal para reserva de emergência"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "liquidez": "diaria",
+    "horizonte_recomendado": "curto_prazo",
+    "perfil_adequado": ["conservador", "moderado"],
+    "objetivo_indicado": ["reserva_emergencia", "renda_passiva"],
+    "descricao": "Investimento bancário com liquidez diária e rendimento atrelado ao CDI"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "liquidez": "baixa",
+    "horizonte_recomendado": "medio_prazo",
+    "perfil_adequado": ["conservador", "moderado"],
+    "objetivo_indicado": ["rentabilidade", "isencao_ir"],
+    "descricao": "Investimento isento de imposto de renda, com prazo mínimo de carência"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + 2%",
+    "aporte_minimo": 500.00,
+    "liquidez": "media",
+    "horizonte_recomendado": "medio_longo_prazo",
+    "perfil_adequado": ["moderado"],
+    "objetivo_indicado": ["diversificacao", "crescimento"],
+    "descricao": "Fundo que combina diferentes ativos para equilibrar risco e retorno"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "variavel",
+    "aporte_minimo": 100.00,
+    "liquidez": "media",
+    "horizonte_recomendado": "longo_prazo",
+    "perfil_adequado": ["arrojado"],
+    "objetivo_indicado": ["crescimento_patrimonial"],
+    "descricao": "Fundo focado em renda variável, com maior potencial de retorno e maior risco"
+  }
+]

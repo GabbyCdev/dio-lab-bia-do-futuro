@@ -1,0 +1,6 @@
+data;canal;intencao;tema;pergunta;resposta_agente;resumo;resolvido
+2025-09-15;chat;duvida_investimento;CDB;Qual a rentabilidade e prazo de um CDB?;Expliquei sobre rendimento atrelado ao CDI e prazos de liquidez;Cliente perguntou sobre rentabilidade e prazos;sim
+2025-09-22;telefone;suporte_tecnico;Problema no app;Não consigo visualizar meu extrato;Orientei reinício do app e atualizações;Erro ao visualizar extrato foi corrigido;sim
+2025-10-01;chat;educacao_financeira;Tesouro Selic;Como funciona o Tesouro Direto?;Expliquei conceito, segurança e liquidez do Tesouro Selic;Cliente pediu explicação sobre o funcionamento do Tesouro Direto;sim
+2025-10-12;chat;planejamento_financeiro;Metas financeiras;Como está minha reserva de emergência?;Analisei progresso e sugeri aumento de aporte mensal;Cliente acompanhou o progresso da reserva de emergência;sim
+2025-10-25;email;atualizacao_cadastral;Atualização cadastral;Quero atualizar meus dados cadastrais;Confirmei atualização de e-mail e telefone;Cliente atualizou e-mail e telefone;sim
